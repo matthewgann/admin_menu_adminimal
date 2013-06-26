@@ -9,6 +9,6 @@ dependencies[] = admin_menu
 ; Information added by drupal.org packaging script on 2013-03-04
 version = "7.x-1.0+1-dev"
 core = "7.x"
-project = "adminimal_admin_menu"
+project = "admin_menu_adminimal"
 datestamp = "1362357059"
 
